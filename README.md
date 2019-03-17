@@ -1,4 +1,4 @@
-# DCFA-GooglePlay-PolyphasicSleep## Privacy Policy
+Privacy Policy
 
 DCFA built the Polyphasic Sleep app as a Commercial app. This SERVICE is provided by DCFA and is intended for use as is.
 
